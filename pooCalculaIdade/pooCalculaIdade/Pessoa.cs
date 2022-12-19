@@ -24,20 +24,32 @@ namespace pooCalculaIdade
 			set { this.nome = value.ToUpper(); }
 		}
 
+		// melhorando as propriedades da classe Pessoa
+		private int idade;
+
+		public int Idade
+		{
+			get 
+			{ 
+				this.CalcularIdade();
+				return this.idade; 
+			}
+			// set { this.idade = value; } => não é necessário pois o usuário não irá entrar com esse dado
+		}
+
+
 		public void ExibirDados() // método para exibir dados no console
 		{
 			Console.WriteLine("Nome: " + this.Nome);
 			Console.WriteLine("Ano de Nascimento: " + this.AnoNascimento);
-			Console.WriteLine("Idade: " + this.CalcularIdade() + " anos");
+			Console.WriteLine("Idade: " + this.Idade + " anos");
 		}
 
-		private int CalcularIdade() // método para calcular a idade a partir do ano de nascimento
+		private void CalcularIdade() // método para calcular a idade a partir do ano de nascimento
 		{
 			DateTime data = DateTime.Now; // objeto data do tipo DateTime
 			int anoAtual = data.Year;
-			int idade = anoAtual - this.AnoNascimento;
-
-			return idade;
+			this.idade = anoAtual - this.AnoNascimento;
 		}
 
 	}
