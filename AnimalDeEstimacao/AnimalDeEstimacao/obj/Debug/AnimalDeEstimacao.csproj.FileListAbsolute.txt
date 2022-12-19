@@ -1,0 +1,8 @@
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\AnimalDeEstimacao\AnimalDeEstimacao\obj\Debug\AnimalDeEstimacao.csproj.AssemblyReference.cache
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\AnimalDeEstimacao\AnimalDeEstimacao\obj\Debug\AnimalDeEstimacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\AnimalDeEstimacao\AnimalDeEstimacao\obj\Debug\AnimalDeEstimacao.csproj.CoreCompileInputs.cache
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\AnimalDeEstimacao\AnimalDeEstimacao\bin\Debug\AnimalDeEstimacao.exe.config
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\AnimalDeEstimacao\AnimalDeEstimacao\bin\Debug\AnimalDeEstimacao.exe
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\AnimalDeEstimacao\AnimalDeEstimacao\bin\Debug\AnimalDeEstimacao.pdb
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\AnimalDeEstimacao\AnimalDeEstimacao\obj\Debug\AnimalDeEstimacao.exe
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\AnimalDeEstimacao\AnimalDeEstimacao\obj\Debug\AnimalDeEstimacao.pdb
