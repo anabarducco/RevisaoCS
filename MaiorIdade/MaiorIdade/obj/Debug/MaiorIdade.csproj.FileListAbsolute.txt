@@ -1,0 +1,8 @@
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\MaiorIdade\MaiorIdade\bin\Debug\MaiorIdade.exe.config
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\MaiorIdade\MaiorIdade\bin\Debug\MaiorIdade.exe
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\MaiorIdade\MaiorIdade\bin\Debug\MaiorIdade.pdb
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.csproj.AssemblyReference.cache
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.exe
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.pdb
