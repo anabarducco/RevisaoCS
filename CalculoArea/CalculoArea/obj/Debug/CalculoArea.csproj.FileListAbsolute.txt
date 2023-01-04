@@ -1,0 +1,8 @@
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe.config
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\CalculoArea\CalculoArea\bin\Debug\CalculoArea.pdb
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.AssemblyReference.cache
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\CalculoArea\CalculoArea\obj\Debug\CalculoArea.exe
+C:\Users\bardu\Desktop\Minhas Coisas\Curso C#\CalculoArea\CalculoArea\obj\Debug\CalculoArea.pdb
